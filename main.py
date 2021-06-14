@@ -13,8 +13,9 @@ from urllib3.exceptions import InsecureRequestWarning
 
 
 # Configs (if this gets bigger, I'll provide a config file... or even Hashicorp Vault)
-# logging.basicConfig(filename='gabs_graphql.log', filemode='a', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
-logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+#logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+logging.basicConfig(filename='nw_harness_harbor_watcher.log', filemode='a', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+
 
 # Suppress only the single warning from urllib3 needed.
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
