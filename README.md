@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/gabrielcerioni/harness_graphql_labs">
+  <a href="https://github.com/gabrielcerioni/nw_harbor_watcher">
     <img src="images/harness_banner.jpeg" alt="Logo">
   </a>
 
@@ -64,7 +64,7 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gabrielcerioni/harness_graphql_labs.git
+   git clone https://github.com/gabrielcerioni/nw_harbor_watcher.git
    ```
 2. Install the project dependecies (very simple stuff, meant to deal with requests, json, html)
    ```sh
@@ -78,7 +78,7 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
 
 4. Enjoy ;)
    ```sh
-   python main.py
+   python3 main.py
    <...>
    ```
 
@@ -114,7 +114,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Gabriel Cerioni - [@gabs.tar.gz](https://www.instagram.com/gabs.tar.gz/) - gacerioni@gmail.com
 
-Project Link: [https://github.com/gabrielcerioni/harness_graphql_labs/](https://github.com/gabrielcerioni/harness_graphql_labs/)
+Project Link: [https://github.com/gabrielcerioni/nw_harbor_watcher/](https://github.com/gabrielcerioni/nw_harbor_watcher/)
 
 <!-- Tech Stack -->
 ## Tech Stack
@@ -127,19 +127,18 @@ Project Link: [https://github.com/gabrielcerioni/harness_graphql_labs/](https://
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[contributors-url]: https://github.com/gabrielcerioni/harness_graphql_labs/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[forks-url]: https://github.com/gabrielcerioni/harness_graphql_labs/network/members
-[stars-shield]: https://img.shields.io/github/stars/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[stars-url]: https://github.com/gabrielcerioni/harness_graphql_labs/stargazers
-[issues-shield]: https://img.shields.io/github/issues/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[issues-url]: https://github.com/gabrielcerioni/harness_graphql_labs/issues
-[license-shield]: https://img.shields.io/github/license/gabrielcerioni/harness_graphql_labs.svg?style=for-the-badge
-[license-url]: https://github.com/gabrielcerioni/harness_graphql_labs/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/gabrielcerioni/nw_harbor_watcher.svg?style=for-the-badge
+[contributors-url]: https://github.com/gabrielcerioni/nw_harbor_watcher/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gabrielcerioni/nw_harbor_watcher.svg?style=for-the-badge
+[forks-url]: https://github.com/gabrielcerioni/nw_harbor_watcher/network/members
+[stars-shield]: https://img.shields.io/github/stars/gabrielcerioni/nw_harbor_watcher.svg?style=for-the-badge
+[stars-url]: https://github.com/gabrielcerioni/nw_harbor_watcher/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gabrielcerioni/nw_harbor_watcher.svg?style=for-the-badge
+[issues-url]: https://github.com/gabrielcerioni/nw_harbor_watcher/issues
+[license-shield]: https://img.shields.io/github/license/gabrielcerioni/nw_harbor_watcher.svg?style=for-the-badge
+[license-url]: https://github.com/gabrielcerioni/nw_harbor_watcher/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gabrielcerioni
-[product-screenshot]: images/gabs_tibia.png
 [api_postman_all]: images/Postman_API_ALL.png
 [api_postman_id]: images/Postman_API_by_id.png
 [api_postman_name]: images/Postman_API_by_name.png
