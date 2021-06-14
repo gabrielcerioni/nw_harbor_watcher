@@ -66,7 +66,7 @@ The main goal of this project is to mantain a trustful source of a Harbor Repo T
    ```sh
    git clone https://github.com/gabrielcerioni/nw_harbor_watcher.git
    ```
-2. Install the project dependecies (very simple stuff, meant to deal with requests, json, html)
+2. Install the project dependecies (we only use requests and logging on this one, you may skip)
    ```sh
    pip install -r requirements.txt
    ```
