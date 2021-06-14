@@ -120,9 +120,8 @@ Project Link: [https://github.com/gabrielcerioni/nw_harbor_watcher/](https://git
 ## Tech Stack
 
 * [Python](https://www.python.org/)
-* [GraphQL](https://graphql.org/)
 * [Harness](https://harness.io)
-* [Python GQL](https://github.com/graphql-python/gql)
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
