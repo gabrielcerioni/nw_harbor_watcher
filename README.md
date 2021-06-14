@@ -13,7 +13,7 @@
     <img src="images/harness_banner.jpeg" alt="Logo">
   </a>
 
-  <h3 align="center">GraphQL Python Labs - by Gabs the CSE</h3>
+  <h3 align="center">Quick Harbor Repo Watcher - by Gabs the CSE</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The main goal of this project is to mantain a trustful source of Python GraphQL queries, to help Harness Customers.
+The main goal of this project is to mantain a trustful source of a Harbor Repo Tags Watcher.
 
 
 <!-- GETTING STARTED -->
@@ -72,8 +72,8 @@ The main goal of this project is to mantain a trustful source of Python GraphQL 
    ```
 3. Export the required variables (Just to avoid Secrets, KMS, Vaults, etc, to keep this project simple)
    ```sh
-   export HARNESS_GRAPHQL_ENDPOINT=https://app.harness.io/gateway/api/graphql?accountId=<your_acc>
-   export HARNESS_GRAPHQL_API_KEY=<YOUR_API_KEY>
+   export HARNESS_HARBOR_USER=<USER>
+   export HARNESS_HARBOR_PWD=<PWD>
    ```
 
 4. Enjoy ;)
