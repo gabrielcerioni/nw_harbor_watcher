@@ -25,8 +25,6 @@ HARBOR_PWD = os.environ.get('HARNESS_HARBOR_PWD')
 HARBOR_REACHABLE_DNS = "https://ec2-18-228-170-187.sa-east-1.compute.amazonaws.com"
 HARBOR_REPO = "nationwide/nginx"
 
- 
-
 
 def endpoint_builder(repo, dns):
     return "{0}/v2/{1}/tags/list".format(dns, repo)
